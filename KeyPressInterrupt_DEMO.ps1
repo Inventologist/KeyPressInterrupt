@@ -21,5 +21,5 @@ Write-Host ""
 Write-Host "This is an example of the processesyou are stopping from running" -f Red
 Write-Host "This is an example of the processesyou are stopping from running" -f Red
 Write-Host ""
-
+pause
 
